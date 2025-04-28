@@ -8,7 +8,8 @@
 ## 2. Vínculos Académicos y Descripción
 - María Fernanda: Soy estudiante de Ingenieria Industrial, actualmente curso mi 5 semestre. Me destaco por mi capacidad para colaborar de manera efectiva, tanto en proyectos individuales como en grupos. Mi enfoque se basa en la comunicación abierta, el respeto por las ideas de los demás y la capacidad de escuchar activamente. Mis principales fortalezas y habilidades son: Comunicación efectiva, capacidad para adaptarme, trabajo en equipo, responsabilidad y compromiso. 
 - Lorena: 
-- Anny:
+- Anny: Soy estudiante de Ingeniería Industrial, actualmente cursando el 5to semestre de la carrera. Me considero una persona con un carácter firme, responsable, comprometida y proactiva en los trabajos que se me asignen, tanto grupales como individuales, tengo una alta capacidad para la resolución de problemas y fomento de la comunicación asertiva, escuchando a mis compañeros para mantener un ambiente de trabajo positivo. Además, en ocasiones asumo roles de liderazgo para apoyar al equipo en sacar adelante los trabajos.
+
 
 ## 3. Nombre del Proyecto y Detalles. 
 El parqueadero "LMA Parking Lott" es un espacio que presta su servicio a vehículos del sector de la Universidad de Antioquia. Este solo permite el ingreso de automóviles, el ingreso de motos no es aceptado. El parqueadero "LMA Parking Lott" requiere de sus habilidades como un equipo de programación de la respetada y bien ponderada Universidad de Antioquia para crear un software de consola en Python para poder gestionar usuarios, generar cobros, facturas, reportes y algo más. 
